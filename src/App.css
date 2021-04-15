@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .App {
-  height: 100vh;
+  /* height: 100vh; */
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: aliceblue;
   background-color: rgb(24, 24, 24);
@@ -15,9 +15,14 @@
   text-decoration: none;
   font-size: 1.5rem;
   color: rgb(96, 181, 255);
+  transition: .3s;
 
 }
 .App a:hover{
-  color: blue;
+  color: rgb(255, 255, 255);
 
+}
+
+.content{
+  padding: .3rem 20% .5rem;
 }
