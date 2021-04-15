@@ -15,6 +15,10 @@ const Nav = () => {
                 <NavLink activeClassName="active" to="/political">Political</NavLink>
                 <NavLink activeClassName="active" to="/auto">Auto</NavLink>
                 <NavLink activeClassName="active" to="/musical">Musical</NavLink>
+                <NavLink activeClassName="active" to="/medical">Medical</NavLink>
+                <NavLink activeClassName="active" to="/scientific">Scientific</NavLink>
+                <NavLink activeClassName="active" to="/economic">Economic</NavLink>
+                <NavLink activeClassName="active" to="/mars">Mars</NavLink>
                 <NavLink activeClassName="active" to="/about">About</NavLink>
                 <NavLink activeClassName="active" to="/contacts">Contacts</NavLink>
             </div>
