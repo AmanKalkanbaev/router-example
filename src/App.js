@@ -2,7 +2,7 @@ import Home from "./Home/Home";
 import About from "./About/About";
 import Contacts from "./Contacts/Contacts"
 import Political from "./Political/Political"
-import { Route } from 'react-router';
+import { Route, Switch } from 'react-router';
 import Nav from "./Nav/Nav";
 import Footer from "./Footer/Footer";
 
@@ -15,10 +15,13 @@ function App() {
       
       <Nav/>
       <div className="content">
-        <Route path="/" component={Home} exact/>
-        <Route path="/about" component={About}/>
-        <Route path="/contacts" component={Contacts}/>
-        <Route path="/political" component={Political}/>
+        <Switch>
+          <Route path="/" component={Home} exact/>
+          <Route path="/about" component={About} exact/>
+          <Route path="/contacts" component={Contacts} exact/>
+          <Route path="/political" component={Political} exact/>
+          <Route  path="/" render={() => <h1 className="four">Page not found</h1>}/>
+        </Switch>
       </div>
       <Footer/>
       

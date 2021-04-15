@@ -1,7 +1,8 @@
 import Logo from "../Media/Logo.png";
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 import classes from "./Footer.module.css";
+
 
 const Footer = () => {
     return ( 
@@ -9,9 +10,10 @@ const Footer = () => {
 
             <div  className={classes.FooterContent}>
                 <div className={classes.links}>
-                    <Link to="/">Home</Link>
-                    <Link to="/about">About</Link>
-                    <Link to="/contacts">Contacts</Link>
+                    <NavLink activeClassName="active" to="/">Home</NavLink>
+                    <NavLink activeClassName="active" to="/political">Political</NavLink>
+                    <NavLink activeClassName="active" to="/about">About</NavLink>
+                    <NavLink activeClassName="active" to="/contacts">Contacts</NavLink>
                 </div>
 
                 <img alt={"Monkey"}  src={Logo}/>
