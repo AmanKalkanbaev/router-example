@@ -136,13 +136,13 @@ const Home = () => {
             
             <div className={classes.block}>
                 
-                <Link alt={"jpg"}  to="/scientific">Scientific</Link>
+                <Link   to="/scientific">Scientific</Link>
 
                 <h2>
                     More than 5,000 tons of extraterrestrial dust fall to Earth each year  
                 </h2>
                 <p>
-                    <img src={Astro}/>
+                    <img alt={"jpg"} src={Astro}/>
                     Every year, our planet encounters dust from comets and asteroids. These interplanetary dust particles pass through our atmosphere and give rise to shooting stars. Some of them reach the ground in the form of micrometeorites. An international program conducted for nearly 20 years by scientists from the CNRS, the Université Paris-Saclay and the National museum of natural history with the support of the French polar institute, has determined that 5,200 tons per year of these micrometeorites reach the ground. The study will be available in the journal Earth & Planetary Science Letters from April 15.
 
                     Micrometeorites have always fallen on our planet. These interplanetary dust particles from comets or asteroids are particles of a few tenths to hundredths of a millimetre that have passed through the atmosphere and reached the Earth's surface.
