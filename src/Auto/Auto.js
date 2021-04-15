@@ -1,6 +1,7 @@
 import Audi from "../Media/Home/Audi.jpg"
 import Mustang from "../Media/Auto/Mustang.jpeg"
 import Mazda from "../Media/Auto/Mazda.jpg"
+import GTR from "../Media/Auto/GTR.jpg"
 
 
 import classes from "./Auto.module.css"
@@ -15,6 +16,22 @@ const Auto = () => {
                 <p>
                     Here you can read all the interesting news from the automotive industry lately.
                     You can also find news on other topics of interest to you in sections.
+                </p>
+            </div>
+            <div className={classes.block}>
+
+                <h2>
+                    2022 Nissan GT-R NISMO Special Edition Looks Tough in Stealth Gray   
+                </h2>
+                <p>
+                    <img alt={"jpg"}  src={GTR}/>
+                    Nissan is building a limited number of this GT-R NISMO Special Edition for the United States, with orders opening in the fall.
+                    The NISMO Special Edition is finished in Stealth Gray and features an exposed carbon-fiber hood and 20-inch wheels with red trim. It's also the first GT-R to wear Nissan's new logo.
+                    This special GT-R has all-wheel drive and is powered by a 600-hp twin-turbo 3.8-liter V-6.
+                    Nissan continues to tinker with the R35-generation GT-R even though it's getting close to retirement. This new GT-R NISMO Special Edition, which goes on sale in the U.S. this fall, will be extremely limited, though Nissan didn't share production numbers. And, no, it doesn't have any more power than the track-focused GT-R NISMO.
+                    The special-edition cars get a blueprinted version—meaning it's built to tight specifications—of the NISMO's twin-turbocharged 3.8-liter V-6, still equipped with the same turbochargers used on Nissan's GT-R GT3-class race car. It produces 600 horsepower and 481 pound-feet of torque (standard GT-Rs make 565 horsepower), sent to all four wheels through a six-speed dual-clutch automatic transmission. In our 2014 test of a GT-R NISMO, it launched to 60 mph in 2.8 seconds on its way to a 10.9-second quarter-mile at 128 mph.
+                    GT-R NISMO (for Nissan Motorsport) cars are distinguished by a more aggressive aero kit with a large rear wing and red trim. The Special Edition cars are finished in a handsome exclusive Stealth Gray with an exposed carbon-fiber hood (non–Special Edition NISMOs also have carbon hoods). The cars also feature a set of 20-inch forged aluminum alloy wheels with a red rim and NISMO logo and are the first GT-Rs to wear the new Nissan logo, which is on the trunk and center caps. They also get a unique plaque with red script on their hand-built engines.
+                    Nissan hasn't released pricing for the 2022 GT-R NISMO Special Edition, but we expect it to cost just over the standard NISMO's $212,535 starting price when orders open this fall.
                 </p>
             </div>
             <div className={classes.block}>
