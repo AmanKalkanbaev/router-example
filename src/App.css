@@ -10,6 +10,10 @@
   background-color: rgb(24, 24, 24);
 }
 
+.App .active{
+  border-bottom: 5px #ffffff solid;
+}
+
 .App a{
   margin: 10px;
   text-decoration: none;
@@ -31,6 +35,4 @@
   padding: 10rem 0;
 }
 
-.active{
-  color: #ffcc00;
-}
+
