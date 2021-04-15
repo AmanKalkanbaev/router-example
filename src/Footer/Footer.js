@@ -14,7 +14,7 @@ const Footer = () => {
                     <Link to="/contacts">Contacts</Link>
                 </div>
 
-                <img src={Logo}/>
+                <img alt={"Monkey"}  src={Logo}/>
             </div>
             <p>
                 © 2021 AKA «Abizyana News».

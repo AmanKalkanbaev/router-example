@@ -29,7 +29,7 @@ const Home = () => {
                     Prince Philip, Duke of Edinburgh, dead at 99    
                 </h2>
                 <p>
-                    <img src={Prince}/>
+                    <img alt={"jpg"} src={Prince}/>
                     Prince Philip, the lifelong companion of Queen Elizabeth II and the longest-serving consort in British history, died at the age of 99 on Friday.
 
                     In a statement, Buckingham Palace said: "It is with deep sorrow that Her Majesty The Queen announces the death of her beloved husband, His Royal Highness The Prince Philip, Duke of Edinburgh. His Royal Highness passed away peacefully this morning at Windsor Castle. Further announcements will be made in due course. The Royal Family join with people around the world in mourning his loss.
@@ -48,7 +48,7 @@ const Home = () => {
                     Cardi B announces new ’90s-inspired Reebok clothing line    
                 </h2>
                 <p>
-                    <img src={Cardi}/>
+                    <img alt={"jpg"}  src={Cardi}/>
                     The ‘WAP’ rapper’s collaboration with the sportswear company, dubbed the Summertime Fine Collection, is due to launch next Friday (April 23) and includes athleisurewear and accessories for women and children.
 
                     Among the items is a cropped sweatshirt, high-rise leggings, a two-in-one bodysuit, and sneakers in monochromatic colours. Also featured in the collection are Men’s Club C shoes, which are available in three colours, as well as the Slip-On III style for boys (in Crisp Purple and Vector Red).
@@ -70,7 +70,7 @@ const Home = () => {
                     Audi attacks EV mass market with Q4 e-tron   
                 </h2>
                 <p>
-                    <img src={Audi}/>
+                    <img alt={"jpg"}  src={Audi}/>
                     Audi is aiming at buyers in the upper end of the compact segment for full-electric vehicles with the Q4 e-tron unveiled Wednesday, while adding a key entry-level EV to the brand’s expanding lineup of battery-powered vehicles.
 
                     It’s the first Audi based on parent Volkswagen Group’s MEB electric-only platform that also underpins the VW ID3 compact hatchback and ID4 compact crossover.
@@ -102,7 +102,7 @@ const Home = () => {
   
                 </h2>
                 <p>
-                    <img src={Med}/>
+                    <img alt={"jpg"}  src={Med}/>
                     All data and statistics are based on publicly available data at the time of publication. Some information may be out of date. Visit our coronavirus hub and follow our live updates page for the most recent information on the COVID-19 pandemic.
 
                     As the global effort to produce vaccines that can curb the COVID-19 pandemic forges ahead, headlines continue to highlight development breakthroughs and safety concerns.
@@ -136,7 +136,7 @@ const Home = () => {
             
             <div className={classes.block}>
                 
-                <Link to="/scientific">Scientific</Link>
+                <Link alt={"jpg"}  to="/scientific">Scientific</Link>
 
                 <h2>
                     More than 5,000 tons of extraterrestrial dust fall to Earth each year  
@@ -175,7 +175,7 @@ const Home = () => {
                      U.S. budget deficit jumps to record $1.7 trillion this year   
                 </h2>
                 <p>
-                    <img src={Dollar}/>
+                    <img alt={"jpg"}  src={Dollar}/>
                     The U.S. government’s budget deficit surged to an all-time high of $1.7 trillion for the first six months of this budget year, nearly double the previous record, as another round of economic-support checks added billions of dollars to spending last month.
 
                     In its monthly budget report, the Treasury Department said Monday that the deficit for the first half of the budget year — from October through March — was up from a shortfall of $743.5 billion for the same period a year ago.
@@ -198,7 +198,7 @@ const Home = () => {
                     NASA's Mars Helicopter to Make First Flight Attempt Sunday   
                 </h2>
                 <p>
-                    <img src={Mars}/>
+                    <img alt={"jpg"}  src={Mars}/>
                     NASA’s Ingenuity Mars Helicopter is two days away from making humanity’s first attempt at powered, controlled flight of an aircraft on another planet. If all proceeds as planned, the 4-pound (1.8-kg) rotorcraft is expected to take off from Mars’ Jezero Crater Sunday, April 11, at 12:30 p.m. local Mars solar time (10:54 p.m. EDT, 7:54 p.m. PDT), hovering 10 feet (3 meters) above the surface for up to 30 seconds. Mission control specialists at NASA’s Jet Propulsion Laboratory in Southern California expect to receive the first data from the first flight attempt the following morning at around 4:15 a.m. EDT (1:15 a.m. PDT). NASA TV will air live coverage of the team as they receive the data, with commentary beginning at 3:30 a.m. EDT (12:30 a.m. PDT).
 
                     “While Ingenuity carries no science instruments, the little helicopter is already making its presence felt across the world, as future leaders follow its progress toward an unprecedented first flight,” said Thomas Zurbuchen, associate administrator for science at NASA Headquarters. “We do tech demos like this to push the envelope of our experience and provide something on which the next missions and the next generation can build. Just as Ingenuity was inspired by the Wright brothers, future explorers will take off using both the data and inspiration from this mission.”

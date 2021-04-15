@@ -23,7 +23,7 @@ const Political = () => {
                     Prince Philip, Duke of Edinburgh, dead at 99    
                 </h2>
                 <p>
-                    <img src={Prince}/>
+                    <img alt={"jpg"}  src={Prince}/>
                     Prince Philip, the lifelong companion of Queen Elizabeth II and the longest-serving consort in British history, died at the age of 99 on Friday.
 
                     In a statement, Buckingham Palace said: "It is with deep sorrow that Her Majesty The Queen announces the death of her beloved husband, His Royal Highness The Prince Philip, Duke of Edinburgh. His Royal Highness passed away peacefully this morning at Windsor Castle. Further announcements will be made in due course. The Royal Family join with people around the world in mourning his loss.
@@ -40,7 +40,7 @@ const Political = () => {
                     How Biden went his own way on Afghanistan withdrawal    
                 </h2>
                 <p>
-                    <img src={Biden}/>
+                    <img alt={"jpg"}  src={Biden}/>
                     President Joe Biden ordered the withdrawal of US forces from Afghanistan over the advice of some of his senior-most advisers in the Pentagon and State Department, leaders who are now charged with carrying out the particulars of the complicated drawdown.
 
                     Multiple current and former officials tell CNN that those advisers -- including Chairman of the Joint Chiefs Gen. Mark Milley, leader of US Central Command Gen. Frank McKenzie and some State Department officials -- expressed concerns about what a full withdrawal might mean for the US counter-terror mission. They also expressed concern about the security of US diplomats based there.
@@ -56,7 +56,7 @@ const Political = () => {
                     Senate advances bill to combat surge of anti-Asian hate crimes   
                 </h2>
                 <p>
-                    <img src={Cenat}/>
+                    <img alt={"jpg"}  src={Cenat}/>
                     The Senate voted 92-6 to advance a bill Wednesday that would address the surge of hate crimes against Asian Americans, signaling broad bipartisan support and momentum for the measure.
 
                     The bill, which would assign a Justice Department official to expedite reviews of potential Covid-19-related hate crimes and establish an online database, initially received pushback from some Senate Republicans as an ineffective, messaging vote.
@@ -74,7 +74,7 @@ const Political = () => {
 
                 </h2>
                 <p>
-                    <img src={Covid}/>
+                    <img alt={"jpg"}  src={Covid}/>
                     US intelligence agencies still do not know "exactly where, when or how Covid-19 virus was transmitted initially" in China but remain focused on two primary theories, that "it emerged naturally from human contact with infected animals or it was a laboratory accident," the nation's top spy told Senate lawmakers on Wednesday.
 
                     That admission from Director of National Intelligence Avril Haines came during the worldwide threats hearing. Her testimony is consistent with an intelligence community statement from almost a year ago that said it has not determined "whether the outbreak began through contact with infected animals or if it was the result of an accident at a laboratory in Wuhan."

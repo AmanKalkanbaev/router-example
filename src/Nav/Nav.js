@@ -7,7 +7,7 @@ const Nav = () => {
     return ( 
         <div className={classes.Nav}>
             <div className={classes.logo}>
-                <img src={Logo}/>
+                <img alt={"Monkey"} src={Logo}/>
                 Abizyana <span>News</span>
             </div>
             <div className={classes.links}>
