@@ -1,7 +1,7 @@
-import Prince from "../Media/Home/Prince.jpg"
-import Biden from "../Media/Political/Biden.jpg"
-import Cenat from "../Media/Political/Cenat.jpg"
-import Covid from "../Media/Political/COVID.jpg"
+import Prince from "./Media/Home/Prince.jpg"
+import Biden from "./Media/Political/Biden.jpg"
+import Cenat from "./Media/Political/Cenat.jpg"
+import Covid from "./Media/Political/COVID.jpg"
 
 import classes from "./Political.module.css"
 

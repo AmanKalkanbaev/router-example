@@ -1,6 +1,6 @@
-import Kefir from "../Media/Medical/Kefir.jpg"
-import Med from "../Media/Home/Med.jpg"
-import Man from "../Media/Medical/Man.jpg"
+import Kefir from "./Media/Medical/Kefir.jpg"
+import Med from "./Media/Home/Med.jpg"
+import Man from "./Media/Medical/Man.jpg"
 
 import classes from "./Medical.module.css"
 

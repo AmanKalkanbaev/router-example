@@ -1,6 +1,6 @@
-import DNK from "../Media/Scientific/DNK.jpg"
-import Brain from "../Media/Scientific/Brain.jpg"
-import Astro from "../Media/Home/Astro.jpg"
+import DNK from "./Media/Scientific/DNK.jpg"
+import Brain from "./Media/Scientific/Brain.jpg"
+import Astro from "./Media/Home/Astro.jpg"
 
 import classes from "./Scientific.module.css"
 

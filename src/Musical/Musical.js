@@ -1,7 +1,7 @@
-import Bowie from "../Media/Musical/Bowie.jpg"
-import Cardi from "../Media/Home/Cardi.jpg"
-import Pilots from "../Media/Musical/Pilots.jpg"
-import DMX from "../Media/Musical/DMX.jpg"
+import Bowie from "./Media/Musical/Bowie.jpg"
+import Cardi from "./Media/Home/Cardi.jpg"
+import Pilots from "./Media/Musical/Pilots.jpg"
+import DMX from "./Media/Musical/DMX.jpg"
 
 import classes from "./Musical.module.css"
 

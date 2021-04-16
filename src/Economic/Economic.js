@@ -1,6 +1,6 @@
-import Jamie from "../Media/Economic/Jamie.jpeg"
-import Ever from "../Media/Economic/Ever.jpg"
-import Dollar from "../Media/Home/Dollar.jpeg"
+import Jamie from "./Media/Economic/Jamie.jpeg"
+import Ever from "./Media/Economic/Ever.jpg"
+import Dollar from "./Media/Home/Dollar.jpeg"
 
 import classes from "./Economic.module.css"
 

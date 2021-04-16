@@ -1,5 +1,5 @@
-import Elon from "../Media/Mars/Elon.jpg"
-import Marss from "../Media/Home/Mars.jpg"
+import Elon from "./Media/Mars/Elon.jpg"
+import Marss from "./Media/Home/Mars.jpg"
 
 import classes from "./Mars.module.css"
 

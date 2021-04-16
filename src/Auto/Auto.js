@@ -1,7 +1,7 @@
-import Audi from "../Media/Home/Audi.jpg"
-import Mustang from "../Media/Auto/Mustang.jpeg"
-import Mazda from "../Media/Auto/Mazda.jpg"
-import GTR from "../Media/Auto/GTR.jpg"
+import GTR from "./Media/Auto/GTR.jpg";
+import Audi from "./Media/Home/Audi.jpg"
+import Mustang from "./Media/Auto/Mustang.jpeg"
+import Mazda from "./Media/Auto/Mazda.jpg"
 
 
 import classes from "./Auto.module.css"
